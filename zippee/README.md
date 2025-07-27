@@ -1,4 +1,4 @@
-# Task Manager API
+# Task Manager API (Screenshot of the APIs attached)
 
 A simple RESTful API for managing tasks with user authentication, built using Flask.
 
@@ -8,14 +8,13 @@ A simple RESTful API for managing tasks with user authentication, built using Fl
 - CRUD operations for tasks
 - Pagination and filtering
 - User roles (admin, user)
-- Swagger API documentation
 - Unit tests
 
 ## Setup
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone git@github.com:anup25nov/zippee.git
    cd zippee
    ```
 2. Create and activate a virtual environment:
